@@ -1,7 +1,7 @@
 # google/gemma-4-26b-a4b-it
 import requests
 
-API_KEY = "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"
+API_KEY = "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"
 
 history = []
 # print(type(history))#<class 'list'>
